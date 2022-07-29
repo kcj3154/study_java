@@ -2,9 +2,6 @@ package com.coupang.study.ch02;
 
 public class CharExample {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 //		자바는 모든 문자를  유니코드로 처리함
@@ -31,7 +28,6 @@ public class CharExample {
 		
 		int uniCode2 = c4;
 		System.out.println(uniCode2);
-		
 	}
 	
 }
