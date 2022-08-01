@@ -30,11 +30,11 @@ public class CastingExample {
 		
 		
 		
-		// string 을 int 로 변환
+		// int를 string으로 변환
 		String stringValue = String.valueOf(intValue);
 		System.out.println("stringValue: " + stringValue);
 		
-		// int를 string으로 변환
+		// string 을 int 로 변환
 		int intValue2 = Integer.parseInt(stringValue);
 		System.out.println("intValue2: " + intValue2);
 		
