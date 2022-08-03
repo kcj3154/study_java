@@ -7,8 +7,8 @@ public class AritheticOperatorExample {
 		int result1 = v1+v2;
 		int result2 = v1-v2;
 		int result3 = v1*v2;
-		int result4 = v1/v2;
-		int result5 = v1%v2;
+		int result4 = v1/v2; // /=몫
+		int result5 = v1%v2; // %=나머지
 		System.out.println(result1);
 		System.out.println(result2);
 		System.out.println(result3);
