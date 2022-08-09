@@ -4,7 +4,7 @@ public class IfExample {
 	
 	public static void main(String[] args) {
 		
-		int score = 95;
+		int score = 81;
 		
 		if(score >= 90) {
 			if(score >=97) {
