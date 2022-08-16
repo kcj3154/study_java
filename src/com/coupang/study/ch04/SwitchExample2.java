@@ -10,7 +10,7 @@ public class SwitchExample2 {
 		// 골드:4, 20% 할인적용
 		// 플래티넘:5, 2.7% 할인적용
 		
-		// 정가 : 할인가s
+		// 정가 : 할인가
 		
 		int price1 = 10000;
 		int grade = 1;

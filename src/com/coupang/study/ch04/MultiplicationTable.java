@@ -4,7 +4,7 @@ public class MultiplicationTable {
 	
 	public static void main(String[] args) {
 		
-// 		2단 출력 프로그램 w
+// 		2단 출력 프로그램 
 // 		2 * 1 = 2
 		
 		
