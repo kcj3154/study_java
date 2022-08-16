@@ -11,7 +11,7 @@ public class IfExample2 {
 // 플래티넘:5, 2.7% 할인적용
 		
 		int price1 = 10000;
-		int grade = 1;
+		int grade =1;
 		double price2;
 		
 		if(grade == 1) {

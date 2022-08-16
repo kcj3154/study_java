@@ -9,7 +9,7 @@ public class IfExample4 {
 		
 		int a=1;
 		
-		if(a !=0) {
+		if(a !=0){
 			if(a%2==0) {
 				System.out.println("짝수");
 			} else {

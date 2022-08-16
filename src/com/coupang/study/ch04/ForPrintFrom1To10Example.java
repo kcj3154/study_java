@@ -9,7 +9,7 @@ public class ForPrintFrom1To10Example {
 		int sum = 0;
 		
 		for(int i = 1; i <= 10 ; i++) {
-			System.out.println(i);
+		System.out.println(i);
 			sum = sum + i; // sum += i;
 		}
 		

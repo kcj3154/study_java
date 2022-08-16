@@ -5,7 +5,7 @@ public class RandomSum {
 	public static void main(String[] args) {
 		
 // 1~100 사이의 랜덤 정수 2개를 발생시켜
-// 두 수 사이의 합을 구하라
+// 두 수 사이의 합을 구하라s
 		
 		
 		//double min = 1;

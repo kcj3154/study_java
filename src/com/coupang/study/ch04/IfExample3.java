@@ -9,7 +9,7 @@ public class IfExample3 {
 // 두 정수가 주어졌을 때 두 정수를 비교하여
 // 크기 비교 결과를 나타내는 프로그램을 작성하시오
 		
-		int a = 10;
+		int a =10;
 		int b = 100;
 		
 		if (a > b) {
