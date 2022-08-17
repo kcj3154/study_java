@@ -1,4 +1,4 @@
-package com.coupang.study.ch05;
+package com.coupang.study.ch04;
 
 public class BreakExample {
 	
