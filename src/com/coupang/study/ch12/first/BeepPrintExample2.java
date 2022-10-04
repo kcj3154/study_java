@@ -37,6 +37,6 @@ public class BeepPrintExample2 {
 		System.out.println("��");
 		try { Thread.sleep(500); } catch(Exception e) {}
 	}
-	}
+}
 
 }

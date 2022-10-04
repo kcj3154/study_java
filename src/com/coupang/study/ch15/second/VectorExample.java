@@ -22,5 +22,4 @@ public class VectorExample {
 			System.out.println(board.getSubject() + "\t" + board.getContent() + "\t" + board.getWriter());
 		}
 	}
-
 }

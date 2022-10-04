@@ -40,5 +40,4 @@ public class HashSetExample {
 			System.out.println("비어 있음"); 
 		}
 	}
-
 }

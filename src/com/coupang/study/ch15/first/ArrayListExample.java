@@ -38,5 +38,4 @@ public class ArrayListExample {
 			System.out.println(i + ":" + str);
 		}
 	}
-
 }

@@ -23,3 +23,4 @@ public class PropertiesExample {
 		System.out.println("password : " + password);
 	}
 }
+

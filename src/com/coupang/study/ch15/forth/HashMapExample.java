@@ -49,5 +49,4 @@ public class HashMapExample {
 		System.out.println();
 		
 	}
-
 }
